@@ -14,6 +14,11 @@ Os scripts SQL estão organizados da seguinte forma:
 
 - `01. Criando um Banco de Dados/`
   - create_database.sql
+  - create_table.sql
+  - insert.sql
+  - alter_table.sql
+  - update.sql
+  - delete.sql
 - `02. Seleção e filtragem de dados/`
 - `03. Relacionando Tabelas/`
 - `04. Agrupando dados/`
