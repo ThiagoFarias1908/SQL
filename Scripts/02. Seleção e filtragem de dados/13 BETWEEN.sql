@@ -1,14 +1,14 @@
 USE ContosoRetailDW
 
 SELECT
-	EmailAddress
-	,Gender
-	,MaritalStatus
-	,TotalChildren
-	,NumberChildrenAtHome
-	,NumberCarsOwned AS 'Quantidade Carros'
-	,Education
-	,BirthDate
+	EmailAddress,
+	Gender,
+	MaritalStatus,
+	TotalChildren,
+	NumberChildrenAtHome,
+	NumberCarsOwned AS 'Quantidade Carros',
+	Education,
+	BirthDate
 FROM DimCustomer
 WHERE 
 	MaritalStatus IS NOT NULL
