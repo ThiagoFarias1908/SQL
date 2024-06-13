@@ -21,3 +21,15 @@ Os scripts SQL estão organizados da seguinte forma:
 - `07. Funções de Texto/`
 - `08. CTE - Common Table Expression/`
 - `09. Window Functions/`
+
+## Exercícios
+
+Os exercícios serão organizados em arquivos separados para facilitar o foco em tópicos específicos:
+
+- Os exercícios serão adicionados conforme o avanço dos estudos.
+
+## Projetos
+
+Os projetos serão organizados em pastas separadas, cada uma contendo um estudo de caso completo:
+
+- Os projetos serão adicionados conforme o avanço dos estudos.
