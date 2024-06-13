@@ -1,7 +1,7 @@
 USE ContosoRetailDW
 
 SELECT
-	StoreKey
-	,StoreName
-	,EmployeeCount
+	StoreKey,
+	StoreName,
+	EmployeeCount
 FROM DimStore
