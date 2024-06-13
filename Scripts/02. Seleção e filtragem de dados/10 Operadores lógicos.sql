@@ -1,13 +1,13 @@
 USE ContosoRetailDW
 
 SELECT
-	EmailAddress
-	,Gender
-	,MaritalStatus
-	,TotalChildren
-	,NumberChildrenAtHome
-	,NumberCarsOwned AS 'Quantidade Carros'
-	,Education
+	EmailAddress,
+	Gender,
+	MaritalStatus,
+	TotalChildren,
+	NumberChildrenAtHome,
+	NumberCarsOwned AS 'Quantidade Carros',
+	Education
 FROM DimCustomer
 WHERE 
 	Education = 'High School'
