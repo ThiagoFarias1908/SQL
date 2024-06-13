@@ -13,7 +13,7 @@ Este repositório contém meus estudos e práticas de SQL. Aqui, você encontrar
 Os scripts SQL estão organizados da seguinte forma:
 
 - `01. Criando um Banco de Dados/`
-  - `CREATE DATABASE.sql`
+  - CREATE DATABASE.sql
 - `02. Seleção e filtragem de dados/`
 - `03. Relacionando Tabelas/`
 - `04. Agrupando dados/`
