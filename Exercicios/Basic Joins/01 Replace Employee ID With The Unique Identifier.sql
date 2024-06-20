@@ -1,8 +1,8 @@
 SELECT
     unique_id,
     name
-FROM EMPLOYEES
-LEFT JOIN EmployeeUNI ON EmployeeUNI.id = Employees.id
+FROM EMPLOYEES AS E
+LEFT JOIN EmployeeUNI AS EU ON EU.id = E.id
 
 /*
 Table: Employees
