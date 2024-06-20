@@ -1,6 +1,6 @@
 # Scripts
 
-Os scripts SQL estão organizados da seguinte forma:
+Os scripts SQL estão organizados em módulos da seguinte forma:
 
 - `01. Criando um Banco de Dados/`
 - `02. Seleção e filtragem de dados/`
