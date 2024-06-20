@@ -10,7 +10,7 @@ Este repositório contém meus estudos e práticas de SQL. Aqui, você encontrar
 
 ## Scripts
 
-Os scripts SQL estão organizados da seguinte forma:
+Os scripts SQL estão organizados em módulos da seguinte forma:
 
 - `01. Criando um Banco de Dados/`
 - `02. Seleção e filtragem de dados/`
@@ -24,9 +24,17 @@ Os scripts SQL estão organizados da seguinte forma:
 
 ## Exercícios
 
-Os exercícios serão organizados em arquivos separados para facilitar o foco em tópicos específicos:
+Retirados do plano de estudo SQL 50 do LeetCode.
 
-- Os exercícios serão adicionados conforme o avanço dos estudos.
+Os exercícios estão organizados em pastas separadas para facilitar o foco em tópicos específicos:
+
+- `Advanced Select and Joins/`
+- `Advanced String Functions - Regex - Clause/`
+- `Basic Aggregate Functions/`
+- `Basic Joins/`
+- `Select/`
+- `Sorting and Grouping/`
+- `Subqueries/`
 
 ## Projetos
 
