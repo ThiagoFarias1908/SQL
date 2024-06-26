@@ -1,5 +1,9 @@
-USE ContosoRetailDW	
+# Script: Subqueries + JOIN
 
+**Descrição:** Uma subconsulta com JOIN em SQL é uma consulta aninhada dentro de outra consulta que utiliza JOINs para combinar dados de múltiplas tabelas.
+
+**Comando SQL:**
+```SQL
 --TOP 5 PRODUTOS COM MAIOR VENDA
 SELECT TOP 5
 	ProductKey,
@@ -21,7 +25,7 @@ INNER JOIN (
 	ORDER BY SALES DESC
 ) AS TOP5 ON TOP5.ProductKey = S2.ProductKey
 
---VALIDA��O TOP 5
+--VALIDAÇÃO TOP 5
 SELECT DISTINCT
 	VAL.ProductKey
 FROM (
