@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: WITH ROLLUP
 
+**Descrição:** É útil para obter resumos hierárquicos dos dados retornados pela consulta.
+
+**Comando SQL:**
+```SQL
 SELECT
 	G.RegionCountryName,
 	ST.StoreName,
