@@ -1,11 +1,14 @@
-USE ContosoRetailDW;
+# Script: CTE COMMON TABLE EXPRESSION
 
-WITH AN�LISE_PRODUTO(ANO, M�S, ID_PRODUTO, NOME_PRODUTO, QTDE)
+**Descrição:** Permite a criação de tabelas temporárias nomeadas que existem somente durante a execução da consulta.
+**Comando SQL:**
+```SQL
+WITH ANÁLISE_PRODUTO(ANO, MÊS, ID_PRODUTO, NOME_PRODUTO, QTDE)
 AS
 (
 	SELECT
 		DATEPART(YEAR ,S.DateKey) AS ANO,
-		DATEPART(MONTH ,S.DateKey) AS M�S,
+		DATEPART(MONTH ,S.DateKey) AS MÊS,
 		S.ProductKey AS ID_PRODUTO,
 		P.ProductName AS NOME_PRODUTO,
 		SUM(S.SalesQuantity) AS QTDE
@@ -16,4 +19,4 @@ AS
 
 SELECT
 	AVG(QTDE)
-FROM AN�LISE_PRODUTO
+FROM ANÁLISE_PRODUTO
