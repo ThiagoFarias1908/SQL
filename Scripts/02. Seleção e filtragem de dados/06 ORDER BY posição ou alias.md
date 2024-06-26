@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: ORDER BY posição ou alias
 
+**Descrição:** É usada para classificar os resultados de uma consulta de acordo com uma ou mais colunas em uma ordem específica, que pode ser ascendente (padrão) ou descendente. 
+
+**Comando SQL:**
+```SQL
 SELECT 
 	EmailAddress,
 	Gender,
