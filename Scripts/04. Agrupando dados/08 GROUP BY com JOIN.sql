@@ -6,9 +6,9 @@ SELECT
 	S.PromotionKey,
 	P.PromotionName,
 	SUM(S.SalesAmount) AS 'SOMA',
-	AVG(S.SalesAmount) AS 'M…DIA',
-	MIN(S.SalesAmount) AS 'MÕNIMO',
-	MAX(S.SalesAmount) AS 'M¡XIMO',
+	AVG(S.SalesAmount) AS 'M√âDIA',
+	MIN(S.SalesAmount) AS 'M√çNIMO',
+	MAX(S.SalesAmount) AS 'M√ÅXIMO',
 	COUNT(S.SalesAmount) AS 'CONTAGEM'
 FROM FactSales AS S
 INNER JOIN DimChannel AS C ON C.ChannelKey = S.ChannelKey
