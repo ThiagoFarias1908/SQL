@@ -1,6 +1,7 @@
 # Script: CTE COMMON TABLE EXPRESSION
 
 **Descrição:** Permite a criação de tabelas temporárias nomeadas que existem somente durante a execução da consulta.
+
 **Comando SQL:**
 ```SQL
 WITH ANÁLISE_PRODUTO(ANO, MÊS, ID_PRODUTO, NOME_PRODUTO, QTDE)
