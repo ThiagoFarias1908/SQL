@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: TOP
 
+**Descrição:** É utilizada para limitar o número de linhas retornadas por uma consulta.
+
+**Comando SQL:**
+```SQL
 SELECT TOP 100
 	EmailAddress,
 	Gender,
