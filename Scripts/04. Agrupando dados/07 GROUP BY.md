@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: GROUP BY
 
+**Descrição:** É utilizada para agrupar linhas que possuem valores iguais em uma ou mais colunas específicas.
+
+**Comando SQL:**
+```SQL
 SELECT
 	S.ChannelKey,
 	S.PromotionKey,
