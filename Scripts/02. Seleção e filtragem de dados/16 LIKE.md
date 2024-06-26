@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: LIKE
 
+**Descrição:** É usado para buscar padrões em dados de texto.
+
+**Comando SQL:**
+```SQL
 --Buscando nome completo
 SELECT 
 	FirstName + ' ' + LastName AS 'FullName',
