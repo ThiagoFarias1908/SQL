@@ -18,15 +18,3 @@ Repositório para armazenar estudos e projetos em SQL.
 7. [Funções de Texto](Scripts/07.%20Funções%20de%20Texto)
 8. [CTE - Common Table Expression](Scripts/08.%20CTE%20-%20Common%20Table%20Expression)
 9. [Window Functions](Scripts/09.%20Window%20Functions)
-
-## Exercícios
-
-Retirados do AdventureWorks: SQL Exercises.
-
-- Os exercícios serão organizados em pastas separadas para facilitar o foco em tópicos específicos:
-
-## Projetos
-
-Os projetos serão organizados em pastas separadas, cada uma contendo um estudo de caso completo:
-
-- Os projetos serão adicionados conforme o avanço dos estudos.
