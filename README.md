@@ -1,26 +1,23 @@
-# Estudos de SQL
+# SQL
 
-Este portfólio contém meus estudos e práticas de SQL. Aqui, você encontrará scripts, exercícios e projetos relacionados a SQL, organizados de forma a facilitar o aprendizado e a consulta futura.
+## Descrição
+Repositório para armazenar estudos e projetos em SQL.
 
-## Estrutura do Repositório
-
-- `Scripts/`: Contém scripts SQL diversos, como criação de tabelas, inserção de dados e consultas.
-- `Exercicios/`: Contém exercícios práticos de SQL para reforçar o aprendizado.
-- `Projetos/`: Contém projetos mais complexos ou estudos de caso que envolvem a aplicação prática de SQL em cenários mais realistas.
+## Estrutura
+- **Scripts:** Scripts diversos, como criação de tabelas, inserção de dados e consultas.
+- **Exercícios:** Exercícios práticos de SQL para reforçar o aprendizado.
+- **Projetos:** Projetos mais complexos ou estudos de caso que envolvem a aplicação prática de SQL em cenários mais realistas.
 
 ## Scripts
-
-Os scripts SQL estão organizados em módulos da seguinte forma:
-
-- `01. Criando um Banco de Dados/`
-- `02. Seleção e filtragem de dados/`
-- `03. Relacionando Tabelas/`
-- `04. Agrupando dados/`
-- `05. Subconsultas/`
-- `06. Funções de Data/`
-- `07. Funções de Texto/`
-- `08. CTE - Common Table Expression/`
-- `09. Window Functions/`
+1. [Criando um Banco de Dados](Scripts/01.%20Criando%20um%20Banco%20de%20Dados)
+2. [Seleção e filtragem de dados](Scripts/02.%20Seleção%20e%20filtragem%20de%20dados)
+3. [Relacionando Tabelas](Scripts/03.%20Relacionando%20Tabelas) 
+4. [Agrupando dados](Scripts/04.%20Agrupando%20dados) 
+5. [Subconsultas](Scripts/05.%20Subconsultas)
+6. [Funções de Data](Scripts/06.%20Funções%20de%20Data)
+7. [Funções de Texto](Scripts/07.%20Funções%20de%20Texto)
+8. [CTE - Common Table Expression](Scripts/08.%20CTE%20-%20Common%20Table%20Expression)
+9. [Window Functions](Scripts/09.%20Window%20Functions)
 
 ## Exercícios
 
