@@ -1,3 +1,9 @@
+# Script: CONCAT
+
+**Descrição:** É usada para concatenar duas ou mais strings em uma única string.
+
+**Comando SQL:**
+```SQL
 DECLARE @USER VARCHAR(30)
 SET @USER = ' Thiago Farias '
 
