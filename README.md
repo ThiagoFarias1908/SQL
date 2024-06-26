@@ -6,7 +6,7 @@ Repositório para armazenar estudos e projetos em SQL.
 ## Estrutura
 - **Scripts:** Scripts diversos, como criação de tabelas, inserção de dados e consultas.
 - **Exercícios:** Exercícios práticos de SQL para reforçar o aprendizado.
-- **Projetos:** Projetos mais complexos ou estudos de caso que envolvem a aplicação prática de SQL em cenários mais realistas.
+- **Projetos:** Projetos ou estudos de caso que envolvem a aplicação prática de SQL em cenários mais realistas.
 
 ## Scripts
 1. [Criando um Banco de Dados](Scripts/01.%20Criando%20um%20Banco%20de%20Dados)
