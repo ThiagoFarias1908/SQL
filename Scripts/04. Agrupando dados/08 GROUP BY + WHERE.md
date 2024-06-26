@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: GROUP BY + WHERE
 
+**Descrição:** É fundamental para filtrar dados e realizar operações agregadas.
+
+**Comando SQL:**
+```SQL
 SELECT
 	S.ChannelKey,
 	S.PromotionKey,
