@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: NOT
 
+**Descrição:** É usado para negar uma condição.
+
+**Comando SQL:**
+```SQL
 SELECT
 	EmailAddress,
 	Gender,
