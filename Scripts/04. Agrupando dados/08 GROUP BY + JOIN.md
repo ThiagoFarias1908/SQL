@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: GROUP BY + JOIN
 
+**Descrição:** É usado para combinar dados de diferentes tabelas e agrupar os resultados para realizar cálculos agregados ou sumarizações.
+
+**Comando SQL:**
+```SQL
 SELECT
 	S.ChannelKey,
 	C.ChannelName,
