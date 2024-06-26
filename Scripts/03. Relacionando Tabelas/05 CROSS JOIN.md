@@ -1,6 +1,6 @@
 # Script: CROSS JOIN
 
-**Descrição:** É um tipo de junção que combina cada linha de uma tabela com cada linha de outra tabela.
+**Descrição:** É um tipo de junção em SQL que produz o produto cartesiano de duas tabelas. Isso significa que ele combina cada linha de uma tabela com cada linha de outra tabela.
 
 **Comando SQL:**
 ```SQL
