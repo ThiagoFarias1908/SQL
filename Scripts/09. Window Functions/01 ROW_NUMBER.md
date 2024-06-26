@@ -1,5 +1,9 @@
-USE Chinook
+# Script: ROW_NUMBER
 
+**Descrição:** É utilizada para atribuir um número sequencial para cada linha de um conjunto de resultados de acordo com uma ordem especificada.
+
+**Comando SQL:**
+```SQL
 SELECT 
 	T.TrackId,
 	T.Name,
