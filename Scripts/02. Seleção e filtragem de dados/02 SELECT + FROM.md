@@ -1,4 +1,4 @@
-# Script: SELECT FROM
+# Script: SELECT + FROM
 
 **Descrição:** É usada para recuperar dados específicos de uma tabela.
 
