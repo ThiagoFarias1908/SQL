@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: JOIN + WHERE
 
+**Descrição:** É usado para combinar dados de duas ou mais tabelas com base em uma condição específica.
+
+**Comando SQL:**
+```SQL
 SELECT TOP 100
 	S.SalesKey,
 	S.SalesAmount,
