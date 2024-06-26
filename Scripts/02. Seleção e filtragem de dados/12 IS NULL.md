@@ -1,6 +1,9 @@
-USE ContosoRetailDW
+# Script: IS NULL
 
-SELECT
+**Descrição:** É utilizada para verificar se um valor em uma coluna é nulo.
+
+**Comando SQL:**
+```SQLSELECT
 	EmailAddress,
 	Gender,
 	MaritalStatus,
