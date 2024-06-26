@@ -1,5 +1,7 @@
-USE BikeStores
+# Script: Funções de Agregação Exemplo Prático
 
+**Comando SQL:**
+```SQL
 SELECT
 	P.CategoryID,
 	COUNT(*) AS TotalProdutos
