@@ -9,9 +9,9 @@ SELECT
 	SUM(SalesAmount) AS SOMA
 FROM FactSales
 
---M…DIA
+--M√âDIA
 SELECT
-	AVG(SalesAmount) AS M…DIA
+	AVG(SalesAmount) AS M√âDIA
 FROM FactSales
 
 --CONTAGEM
@@ -19,17 +19,17 @@ SELECT
 	COUNT(SalesAmount) AS QTD_LINHAS
 FROM FactSales
 
---M¡XIMO
+--M√ÅXIMO
 SELECT
-	MAX(SalesAmount) AS M¡XIMO
+	MAX(SalesAmount) AS M√ÅXIMO
 FROM FactSales
 
---MÕNIMO
+--M√çNIMO
 SELECT
-	MIN(SalesAmount) AS MÕNIMO
+	MIN(SalesAmount) AS M√çNIMO
 FROM FactSales
 
---M…DIA V2
+--M√âDIA V2
 SELECT
-	SUM(SalesAmount)/COUNT(SalesAmount) AS M…DIA_V2
+	SUM(SalesAmount)/COUNT(SalesAmount) AS M√âDIA_V2
 FROM FactSales
