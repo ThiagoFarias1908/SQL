@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: BETWEEN
 
+**Descrição:** É utilizada para selecionar valores dentro de um intervalo especificado. 
+
+**Comando SQL:**
+```SQL
 SELECT
 	EmailAddress,
 	Gender,
