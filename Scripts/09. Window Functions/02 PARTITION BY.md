@@ -1,5 +1,9 @@
-USE Chinook
+# Script: PARTITION BY
 
+**Descrição:** Essa cláusula divide o conjunto de resultados em partições de linhas, às quais as funções analíticas são aplicadas de forma independente.
+
+**Comando SQL:**
+```SQL
 SELECT 
 	T.TrackId,
 	T.Name,
