@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: AND e OR
 
+**Descrição:** AND: Ele retorna verdadeiro se todas as condições especificadas forem verdadeiras. OR: Ele retorna verdadeiro se pelo menos uma das condições for verdadeira.
+
+**Comando SQL:**
+```SQL
 SELECT
 	EmailAddress,
 	Gender,
