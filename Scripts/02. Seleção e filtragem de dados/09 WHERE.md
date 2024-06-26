@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: WHERE
 
+**Descrição:** É utilizada para filtrar registros em uma consulta.
+
+**Comando SQL:**
+```SQL
 SELECT TOP 100 WITH TIES
 	EmailAddress,
 	Gender,
