@@ -1,5 +1,9 @@
-USE Chinook
+# Script: NTILE
 
+**Descrição:** É utilizada para dividir um conjunto de dados em um número específico de partições e atribuir um número de 1 a N a cada linha, indicando a qual partição ela pertence. 
+
+**Comando SQL:**
+```SQL
 SELECT 
 	T.TrackId,
 	T.Name,
