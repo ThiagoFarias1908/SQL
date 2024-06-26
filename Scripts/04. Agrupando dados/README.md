@@ -1,4 +1,4 @@
-# Relacionando Tabelas
+# Agrupando dados
 
 ## Scripts
 1. [SUM](01%20SUM.md): É usada para calcular a soma de valores numéricos em uma coluna específica de uma tabela.
