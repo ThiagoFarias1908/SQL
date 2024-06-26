@@ -1,5 +1,9 @@
-USE ContosoRetailDW
+# Script: DATEPART
 
+**Descrição:** É usada para extrair partes específicas de uma data, como o dia, mês, ano, hora, minuto, segundo, etc.
+
+**Comando SQL:**
+```SQL
 --DATEPART (parte, data)
 /*
 	===================================================================
