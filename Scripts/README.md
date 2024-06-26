@@ -1,13 +1,10 @@
 # Scripts
-
-Os scripts SQL estão organizados em módulos da seguinte forma:
-
-- `01. Criando um Banco de Dados/`
-- `02. Seleção e filtragem de dados/`
-- `03. Relacionando Tabelas/`
-- `04. Agrupando dados/`
-- `05. Subconsultas/`
-- `06. Funções de Data/`
-- `07. Funções de Texto/`
-- `08. CTE - Common Table Expression/`
-- `09. Window Functions/`
+1. [Criando um Banco de Dados](01.%20Criando%20um%20Banco%20de%20Dados)
+2. [Seleção e filtragem de dados](02.%20Seleção%20e%20filtragem%20de%20dados)
+3. [Relacionando Tabelas](03.%20Relacionando%20Tabelas) 
+4. [Agrupando dados](04.%20Agrupando%20dados) 
+5. [Subconsultas](05.%20Subconsultas)
+6. [Funções de Data](06.%20Funções%20de%20Data)
+7. [Funções de Texto](07.%20Funções%20de%20Texto)
+8. [CTE - Common Table Expression](08.%20CTE%20-%20Common%20Table%20Expression)
+9. [Window Functions](09.%20Window%20Functions)
